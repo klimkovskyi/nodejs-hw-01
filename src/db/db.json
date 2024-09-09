@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "c2926912-4319-44cb-8d79-a27682025aa1",
+    "name": "Adrian Lakin",
+    "phone": "226.323.5974",
+    "email": "Chadd_Ruecker21@hotmail.com",
+    "job": "Senior Infrastructure Planner"
+  },
+  {
+    "id": "1f3983be-a119-4a59-a89b-63649e4316ba",
+    "name": "Dr. Loren Daniel",
+    "phone": "(430) 945-8990 x1999",
+    "email": "Monroe_DuBuque-Hoeger@gmail.com",
+    "job": "Central Identity Officer"
+  },
+  {
+    "id": "b7d1ca25-066a-4228-9c6c-7073022a1ffa",
+    "name": "Domingo Cruickshank",
+    "phone": "(870) 973-9531 x6952",
+    "email": "Lonie20@gmail.com",
+    "job": "District Operations Consultant"
+  },
+  {
+    "id": "27989f9b-6719-4b3c-ab74-03d7eed9c922",
+    "name": "Lula Spinka",
+    "phone": "782.341.0016 x8673",
+    "email": "Rosalind_Thompson27@gmail.com",
+    "job": "National Intranet Technician"
+  },
+  {
+    "id": "375220d9-c9f6-4ba9-affe-227bb5083bae",
+    "name": "Terence O'Connell",
+    "phone": "1-910-875-7912 x398",
+    "email": "Amy.Herman@yahoo.com",
+    "job": "Dynamic Tactics Developer"
+  }
+]
