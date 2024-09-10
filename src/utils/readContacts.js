@@ -8,5 +8,3 @@ export const readContacts = async () => {
     console.error('error while read file', error.message);
   }
 };
-
-console.log(await readContacts());
